@@ -6,7 +6,7 @@ import hashlib
 import tkinter.messagebox
 
 #bg_col= "#001B1A"
-bg_col="black"
+bg_col="white"
 
     
 
